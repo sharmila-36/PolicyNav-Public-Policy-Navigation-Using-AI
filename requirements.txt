@@ -1,0 +1,9 @@
+streamlit
+pandas
+pdfplumber
+pytesseract
+pdf2image
+requests
+scikit-learn
+openpyxl
+xlrd
